@@ -1,3 +1,5 @@
+#архитектура
+
 ## ![📌](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f4cc.png "Pushpin    :pushpin:") **Общий роадмап по реверс-инжинирингу**​[](https://yougame.biz/threads/356861/?ysclid=mo8r0bju3a632549215#-pushpin-obshchii-roadmap-po-revers-inzhiniringu "Permanent link")
 
 ---
@@ -111,3 +113,6 @@
 - RE for Beginners (Dennis Yurichev)
 - Malware Unicorn RE101
 - OpenSecurityTraining
+
+---
+Раздел: [[Архитектура ПК]]
